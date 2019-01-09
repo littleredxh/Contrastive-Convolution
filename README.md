@@ -1,5 +1,5 @@
 # Contrastive-Convolution
-Implementation of `Face Recognition with Contrastive Convolution` - ECCV 2018.
+Implementation of `Face Recognition with Contrastive Convolution` - ECCV 2018. [Work in Progress]
 ## Requirements
 1) Pytorch - 0.4.1
 2) Numpy
